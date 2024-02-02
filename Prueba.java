@@ -13,7 +13,7 @@ public class Main {
     pruCd.leerDatos();
     pruCd.muestraInfo();
 
-    System.out.println();// Separador de lineas
+    System.out.println();
 
     pruDisco.girarDisco();
     pruDisco.almacenaDatos();
